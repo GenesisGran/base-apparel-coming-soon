@@ -31,7 +31,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/base-apparel-coming-soon-using-html-css-grid-flex-and-media-query-GwcV1GJTC]
 - Live Site URL: [https://genesisgran.github.io/base-apparel-coming-soon/]
 
 ## Built with
