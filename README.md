@@ -27,7 +27,7 @@ Users should be able to:
 
 ## Screenshot
 
-![Web Preview](./web-preview.jpeg)
+![Web Preview](./images/web-preview.jpeg)
 
 ## Links
 
